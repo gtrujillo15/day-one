@@ -1,0 +1,18 @@
+/* 1 point */
+.green-text {
+    color: rgba(0, 128, 0, 0.5);
+}
+
+/* 10 points */
+h1 {
+    color: green;
+}
+
+/* 100 points */
+#width-300 {
+    width: 300px;
+}
+
+p {
+    border: 1px solid blue;
+}
