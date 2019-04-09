@@ -5,7 +5,7 @@
 
 /* 10 points */
 h1 {
-    color: green;
+    color: #ffd1d4;
 }
 
 /* 100 points */
@@ -15,4 +15,8 @@ h1 {
 
 p {
     border: 1px solid blue;
+}
+
+.me {
+    width: 300px;
 }
